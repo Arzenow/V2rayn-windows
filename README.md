@@ -1,7 +1,9 @@
 # V2rayn-windows
 دانلود و آموزش نصب نرم افزار VPN v2rayN ویندوز 
-## ارزنو t.me/arzenow 
+## ارزنو t.me/arzenow تلگرام
 # نصب V2RayN بر روی ویندوز 
+![20230928_214533_۰۰۰۰](https://github.com/Arzenow/V2rayn-windows/assets/124554599/098dabdd-9a9e-4880-80f0-4faafd7c5e44)
+
   
  بر روی ویندوز از یک نرم‌افزار open source به نام [V2RayN](https://github.com/2dust/v2rayN) استفاده می‌کنیم. 
   
